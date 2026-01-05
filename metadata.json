@@ -1,0 +1,9 @@
+{
+  "name": "ChatOGT",
+  "description": "A feature-rich ChatGPT clone powered by the latest Gemini models, featuring image generation, search grounding, live voice conversation, and deep thinking capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
